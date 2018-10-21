@@ -1,5 +1,5 @@
 _repo: The-Enchanted-Castle_3536
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -40,6 +40,7 @@ subjects:
 - !lcsh 'Great Britain -- History -- Edward VII, 1901-1910 -- Juvenile fiction'
 - !lcsh 'Magic -- Juvenile fiction'
 - !lcsh 'Wishes -- Juvenile fiction'
+- GITenberg
 title: The Enchanted Castle
 url: http://www.gutenberg.org/ebooks/3536
 wikipedia:
